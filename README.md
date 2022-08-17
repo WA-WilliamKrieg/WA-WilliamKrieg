@@ -18,7 +18,7 @@ William</a></h1>
 - 💬 Ask me about **Angular, HTML, CSS, javascript, AWS infrastructure and other technologies**
 
 - 📫 Reach me by <a href="https://www.linkedin.com/in/krieg-william/" target="blank">
-Linkedin</a></h1>
+Linkedin</a>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
