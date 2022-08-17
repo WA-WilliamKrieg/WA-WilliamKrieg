@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/krieg-william/" target="blank">
 William</a></h1>
-<h3 align="center">A passionate Fullstack Web developer from Paris France &#127467;&#127476;</h3>
+<h3 align="center">A passionate Fullstack Web developer from Paris France &#127467; &#127476;</h3>
 
 
 <a target="_blank" align="center">
