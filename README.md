@@ -38,7 +38,7 @@ Linkedin</a>
 <!-- BLOG-POST-LIST:START -->
 
 - <a href="https://wildsanbox.com/"> WildSanBox, My lab storage </a>
-- <a href="https://wildsanbox.com/"> My Pokémon Website </a>
+- <a href="https://pokegraph.com"> My Pokémon Website </a>
 
 ---
 
