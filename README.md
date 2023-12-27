@@ -33,12 +33,10 @@ Linkedin</a>
 
 </p>
 
-### My personnal websites
+### My personnal website
 
 <!-- BLOG-POST-LIST:START -->
-
-- <a href="https://wildsanbox.com/"> WildSanBox, My lab storage </a>
-- <a href="https://pokegraph.com"> My Pokémon Website </a>
+- <a href="https://pokegraph.com"> My Pokémon Website - https://pokegraph.com </a>
 
 ---
 
