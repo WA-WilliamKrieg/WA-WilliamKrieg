@@ -13,7 +13,7 @@ William</a></h1>
 
 - 🤝 I’m available for discuss.
 
-- 🌱 I’m currently learning Next.js and Wordpress Templating
+- 🌱 I’m currently learning Supabase for stop to make api
 
 - 💬 Ask me about **Angular, HTML, CSS, javascript, AWS infrastructure and other technologies**
 
