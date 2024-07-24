@@ -39,5 +39,9 @@ Linkedin</a>
 - <a href="https://pokegraph.com"> My Pokémon Website - https://pokegraph.com </a>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=WA-WilliamKrieg)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
 
 Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
