@@ -7,13 +7,13 @@ William</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="http://web-atrio.com/" target="blank">Web-atrio</a>
+- 🔭 I’m CTO currently working in <a href="http://web-atrio.com/" target="blank">Web-atrio</a>
 
-- 🌱 I’m currently Working on Angular & React apps for PWA applications
+- 🌱 I’m currently Working on Angular & Supabase
 
 - 🤝 I’m available for discuss.
 
-- 🌱 I’m currently learning Supabase for stop to make api
+- 🌱 I’m fan of Supabase ! If you want make a project with this contact me
 
 - 💬 Ask me about **Angular, HTML, CSS, javascript, AWS infrastructure and other technologies**
 
